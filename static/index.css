@@ -18,6 +18,14 @@ main {
 
 body > header {
   text-align: center;
+  margin: 0 1rem;
+}
+
+.search {
+  width: 100%;
+  max-width: 800px;
+  box-sizing: border-box;
+  padding: .5rem;
 }
 
 .plugin {
