@@ -1,0 +1,6 @@
+name: ntfy
+repo: https://gitlab.com/999eagle/maubot-ntfy
+license: AGPL-3.0-or-later
+author: Sophie Tauchert
+description: A bot for subscribing to [ntfy](https://ntfy.sh) topics and posting messages to Matrix.
+public_instances: []
