@@ -1,6 +1,6 @@
 name: activity-tracker
 repo: https://github.com/williamkray/maubot-kickbot
-license:
+license: MIT
 author: William Kray
 description: A plugin that minimally tracks user activity within a space. Useful for kicking inactive users from a private community.
 public_instances: []

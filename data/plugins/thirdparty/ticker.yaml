@@ -1,6 +1,6 @@
 name: ticker
 repo: https://github.com/williamkray/maubot-ticker
-license:
+license: MIT
 author: William Kray
 description: A bot to return financial data about a stock or cryptocurrency.
 public_instances: []

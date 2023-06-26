@@ -1,6 +1,6 @@
 name: random-subreddit-post
 repo: https://github.com/williamkray/maubot-reddit
-license:
+license: MIT
 author: William Kray
 description: A plugin that returns a random post from a given subreddit.
 public_instances: []

@@ -1,11 +1,9 @@
 name: gifme
 repo: https://github.com/williamkray/maubot-gifme
-license:
+license: MIT
 author: William Kray
 description: |
-  Superior gif responses. Giphy has gone downhill, so save your own library of
-  image or video responses. Allows fallback behavior to giphy.com or Tenor, and
-  can even be used as a drop-in replacement for your current giphy plugin.
-  Optionally saves quotes from users for comedic effect or to be used as an FAQ
-  bot!
+  Superior gif responses. Save your own library of image or video responses. 
+  Allows fallback behavior to Giphy or Tenor, optionally saves quotes from
+  users for comedic effect or to be used as an FAQ bot!
 public_instances: []

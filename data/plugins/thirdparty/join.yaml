@@ -1,6 +1,6 @@
 name: join
 repo: https://github.com/williamkray/maubot-join
-license:
+license: MIT
 author: William Kray
 description: A plugin that restricts who can convince your bot to join new rooms to certain users.
 public_instances: []
