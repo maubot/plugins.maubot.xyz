@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Maubot Plugins</title>
+  <link rel="icon" href="/favicon.png" type="image/png"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="A list of maubot plugins."/>
+  <meta property="og:title" content="Maubot Plugins"/>
+  <meta property="og:description" content="A list of maubot plugins."/>
+  <meta property="og:url" content="https://plugins.maubot.xyz/"/>
+  <meta property="og:image" content="/favicon.png"/>
+  <link rel="stylesheet" type="text/css" href="/index.css">
+</head>
+<body>
+  <h1>Maubot Plugins</h1>
+  <main>
+    {{ range index $.Site.Data.plugins.official }}
+      {{ partial "plugin.html" . }}
+    {{ end }}
+    {{ range index $.Site.Data.plugins.thirdparty }}
+      {{ partial "plugin.html" . }}
+    {{ end }}
+  </main>
+  <footer>
+    <a href="https://github.com/maubot/plugins">Website source</a>
+    - Licensed under <a href="https://mau.fi/LICENSE">CC-BY-SA-4.0</a>
+  </footer>
+</body>
+</html>

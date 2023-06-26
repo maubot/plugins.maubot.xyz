@@ -1,0 +1,6 @@
+name: exec
+repo: https://github.com/maubot/exec
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot that executes code.
+public_instances: []

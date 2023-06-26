@@ -1,0 +1,6 @@
+name: tex
+repo: https://github.com/maubot/tex
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot that renders LaTeX.
+public_instances: []

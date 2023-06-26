@@ -1,0 +1,12 @@
+# The name of the plugin.
+name:
+# A link to the Git repository.
+repo:
+# The SPDX license identifier for the plugin (same as in maubot.yaml)
+license:
+# The author of the plugin.
+author:
+# A short description for the plugin. May contain markdown.
+description:
+# List of public bot user IDs where the plugin is running.
+public_instances: []

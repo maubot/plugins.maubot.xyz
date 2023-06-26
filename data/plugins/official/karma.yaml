@@ -1,0 +1,7 @@
+name: karma
+repo: https://github.com/maubot/karma
+license: AGPL-3.0-or-later
+author: Tulir
+description: A user karma tracker bot.
+public_instances:
+  - "@karma:maunium.net"

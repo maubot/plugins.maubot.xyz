@@ -1,0 +1,7 @@
+name: subreddit-linkifier
+repo: https://github.com/TomCasavant/RedditMaubot
+license: MIT
+author: Tom Casavant
+description: A bot that condescendingly corrects a user when they enter an r/subreddit without providing a link to that subreddit.
+public_instances:
+  - "@reddit:t2bot.io"

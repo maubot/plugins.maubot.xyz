@@ -1,0 +1,6 @@
+name: ovgumensabot
+repo: https://github.com/v411e/ovgumensabot
+license: MIT
+author: Valentin Rieß
+description: A bot that automatically sends meals from OvGU canteen every day.
+public_instances: []

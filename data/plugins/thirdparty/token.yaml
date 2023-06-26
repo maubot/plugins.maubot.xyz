@@ -1,0 +1,6 @@
+name: token
+repo: https://github.com/yoxcu/maubot-token
+license: AGPL-3.0-or-later
+author: yoxcu
+description: A maubot to create and manage your synapse user registration tokens.
+public_instances: []

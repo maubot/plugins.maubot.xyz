@@ -1,0 +1,6 @@
+name: tmdb
+repo: https://codeberg.org/lomion/tmdb-bot
+license: AGPL-3.0-or-later
+author: lomion
+description: A bot that posts information about movies fetched from TheMovieDB.org.
+public_instances: []

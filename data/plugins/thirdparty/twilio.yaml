@@ -1,0 +1,6 @@
+name: twilio
+repo: https://github.com/jeffcasavant/MaubotTwilio
+license: MIT
+author: Jeff Casavant
+description: Maubot-based SMS bridge.
+public_instances: []

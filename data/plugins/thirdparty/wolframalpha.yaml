@@ -1,0 +1,6 @@
+name: wolframalpha
+repo: https://github.com/ggogel/WolframAlphaMaubot
+license: MIT
+author: Gerrit Gogel
+description: A bot that allows requesting information from [WolframAlpha](https://www.wolframalpha.com/).
+public_instances: []

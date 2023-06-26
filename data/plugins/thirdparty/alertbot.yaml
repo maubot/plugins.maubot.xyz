@@ -1,0 +1,6 @@
+name: alertbot
+repo: https://github.com/moan0s/alertbot
+license: AGPL-3.0-or-later
+author: Julian-Samuel Gebühr
+description: A bot that recives monitoring alerts via alertmanager and forwards them to a matrix room.
+public_instances: []

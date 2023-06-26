@@ -1,0 +1,9 @@
+name: gitlab
+repo: https://github.com/maubot/gitlab
+license: AGPL-3.0-or-later
+author: Tulir
+description: A GitLab client and webhook receiver.
+antifeatures:
+  - synchronous
+public_instances:
+  - "@gitlab:maunium.net"

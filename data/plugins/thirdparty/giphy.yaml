@@ -1,0 +1,6 @@
+name: giphy
+repo: https://github.com/TomCasavant/GiphyMaubot
+license: MIT
+author: Tom Casavant
+description: A bot that generates a gif (from giphy) given search terms.
+public_instances: []

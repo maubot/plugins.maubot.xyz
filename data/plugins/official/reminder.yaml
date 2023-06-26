@@ -1,0 +1,8 @@
+name: reminder
+repo: https://github.com/maubot/reminder
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot to remind you about things.
+public_instances:
+  - "@reminder:maunium.net"
+  - "@reminder:t2bot.io"

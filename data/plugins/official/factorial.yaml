@@ -1,0 +1,9 @@
+name: factorial
+repo: https://github.com/maubot/factorial
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot to calculate unexpected factorials.
+public_instances:
+  - "@factorial:maunium.net"
+  - "@factorial:t2bot.io"
+

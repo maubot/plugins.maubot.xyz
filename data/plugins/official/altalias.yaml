@@ -1,0 +1,7 @@
+name: altalias
+repo: https://github.com/maubot/altalias
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot that lets users publish alternate aliases in rooms.
+public_instances:
+  - "@alias:maunium.net"

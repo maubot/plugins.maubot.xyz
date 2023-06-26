@@ -1,0 +1,6 @@
+name: supportportal
+repo: https://github.com/maubot/supportportal
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot to manage customer support on Matrix.
+public_instances: []

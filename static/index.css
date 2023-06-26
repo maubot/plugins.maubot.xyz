@@ -1,0 +1,73 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 1rem;
+  line-height: 1.4;
+  background-color: #EEE;
+  color: #000;
+  font-family: sans-serif;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+}
+
+body > h1 {
+  text-align: center;
+}
+
+.plugin {
+  box-sizing: border-box;
+  background-color: #FFF;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.25);
+  padding: .5rem 1rem;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.plugin > h3 {
+  margin: 0;
+}
+
+.plugin > .metadata {
+  color: #444 !important;
+  font-size: .8rem;
+  margin: .25rem 0 .5rem;
+}
+
+.plugin > .description {
+  flex: 1;
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 4;
+   line-clamp: 4; 
+   -webkit-box-orient: vertical;
+}
+
+/* This is very hacky and not really optimal UX */
+.plugin:hover > .description {
+  display: block;
+}
+
+.plugin > .buttons > a {
+  margin-top: .5rem;
+  background-color: #00c853;
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: .25rem 1rem;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.plugin > .buttons > a:hover {
+  background-color: #00963e;
+}

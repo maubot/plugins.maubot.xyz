@@ -1,0 +1,4 @@
+baseURL = 'https://plugins.maubot.xyz/'
+languageCode = 'en-us'
+title = 'Maubot Plugins'
+disableKinds = ["taxonomy", "taxonomyTerm"]

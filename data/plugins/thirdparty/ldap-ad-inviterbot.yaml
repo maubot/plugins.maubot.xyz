@@ -1,0 +1,6 @@
+name: LDAP/AD inviter bot
+repo: https://github.com/SAPUCC/inviterbot
+license: GPL-3.0-or-later
+author: Valentin Rieß
+description: A plugin to sync users from Microsoft Azure AD and LDAP into matrix rooms. (Membership, Power-Levels)
+public_instances: []

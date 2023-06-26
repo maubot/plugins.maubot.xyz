@@ -1,0 +1,10 @@
+deploy:
+  stage: deploy
+  image: docker.io/klakegg/hugo
+  tags:
+  - webdeploy
+  only:
+  - main
+  script:
+  - hugo
+  - rsync -rcthvl --delete public/ /srv/web/plugins.maubot.xyz/

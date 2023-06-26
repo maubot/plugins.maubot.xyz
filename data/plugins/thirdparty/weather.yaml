@@ -1,0 +1,6 @@
+name: weather
+repo: https://github.com/kellya/maubot-weather
+license: MIT
+author: Alex Kelly
+description: A bot to get the weather from wttr.in and return a single line of text for the location specified.
+public_instances: []

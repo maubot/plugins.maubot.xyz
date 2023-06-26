@@ -1,0 +1,7 @@
+name: media
+repo: https://github.com/maubot/media
+license: MIT
+author: Tulir
+description: A bot that replies with the MXC URI of images you send it.
+public_instances:
+  - "@media:maunium.net"

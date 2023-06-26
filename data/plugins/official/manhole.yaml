@@ -1,0 +1,6 @@
+name: manhole
+repo: https://github.com/maubot/manhole
+license: AGPL-3.0-or-later
+author: Tulir
+description: A plugin that lets you access a Python shell inside maubot.
+public_instances: []

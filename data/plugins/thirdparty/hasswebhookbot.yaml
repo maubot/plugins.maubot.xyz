@@ -1,0 +1,6 @@
+name: hasswebhookbot
+repo: https://github.com/v411e/hasswebhookbot
+license: MIT
+author: Valentin Rieß
+description: A bot receiving webhooks from [Home Assistant](https://github.com/home-assistant).
+public_instances: []

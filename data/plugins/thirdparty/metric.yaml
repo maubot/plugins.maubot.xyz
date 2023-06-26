@@ -1,0 +1,6 @@
+name: metric
+repo: https://github.com/edwardsdean/maubot_metric_bot
+license: MIT
+author: edwardsdean
+description: A bot that will reply to a message that contains imperial units and replace them with metric units.
+public_instances: []

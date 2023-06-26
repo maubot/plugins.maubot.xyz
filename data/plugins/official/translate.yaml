@@ -1,0 +1,8 @@
+name: translate
+repo: https://github.com/maubot/translate
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot to translate words.
+public_instances:
+  - "@translate:maunium.net"
+  - "@translate:t2bot.io"

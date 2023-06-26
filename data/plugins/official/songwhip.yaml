@@ -1,0 +1,7 @@
+name: songwhip
+repo: https://github.com/maubot/songwhip
+license: MIT
+author: Tulir
+description: A bot to post Songwhip links.
+public_instances:
+  - "@songwhip:maunium.net"

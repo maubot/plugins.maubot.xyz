@@ -1,0 +1,7 @@
+name: reactbot
+repo: https://github.com/maubot/reactbot
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot that responds to messages that match predefined rules.
+public_instances:
+  - "@cat:maunium.net"

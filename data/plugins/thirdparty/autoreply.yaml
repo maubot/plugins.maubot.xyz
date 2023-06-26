@@ -1,0 +1,6 @@
+name: autoreply
+repo: https://github.com/babolivier/maubot-autoreply
+license: Apache-2.0
+author: Brendan Abolivier
+description: A bot that sends automated replies when you're away, and shows you a summary of missed messages when you come back.
+public_instances: []

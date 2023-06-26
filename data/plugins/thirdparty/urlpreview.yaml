@@ -1,0 +1,6 @@
+name: urlpreview
+repo: https://github.com/coffeebank/coffee-maubot/tree/master/urlpreview
+license: AGPL-3.0-or-later
+author: coffeebank
+description: A bot that responds to links with a link preview embed, using Matrix API to fetch meta tags.
+public_instances: []

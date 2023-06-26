@@ -1,0 +1,7 @@
+name: disruptor
+repo: https://github.com/maubot/disruptor
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot that disrupts monologues with cat pictures.
+public_instances:
+  - "@cat:maunium.net"

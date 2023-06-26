@@ -1,0 +1,6 @@
+name: redactbot
+repo: https://gitlab.com/sspaeth/redactbot
+license: AGPL-3.0-or-later
+author: Sebastian Spaeth
+description: A bot that immediately redacts any posted file (except for whitelisted types).
+public_instances: []

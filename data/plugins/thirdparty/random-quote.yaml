@@ -1,0 +1,6 @@
+name: random-quote
+repo: https://github.com/itrich/QuoteMaubot
+license: MIT
+author: Eduard Itrich
+description: A plugin to answer with a random quote from a configurable list.
+public_instances: []

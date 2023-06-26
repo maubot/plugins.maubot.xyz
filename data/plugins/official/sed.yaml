@@ -1,0 +1,8 @@
+name: sed
+repo: https://github.com/maubot/sed
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot to do sed-like replacements.
+public_instances:
+  - "@sed:maunium.net"
+  - "@sed:t2bot.io"

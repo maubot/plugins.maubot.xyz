@@ -1,0 +1,6 @@
+name: alternatingcaps
+repo: https://github.com/rom4nik/maubot-alternatingcaps
+license: MIT
+author: Przemysław Romanik
+description: A bot repeating last message using aLtErNaTiNg cApS.
+public_instances: []

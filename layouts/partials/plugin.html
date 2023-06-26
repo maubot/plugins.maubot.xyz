@@ -1,0 +1,11 @@
+<div class="plugin">
+  <h3>{{ .name }}</h3>
+  <div class="metadata">
+    <div class="author">Author: {{ .author }}</div>
+    <div class="license">License: {{ or .license "unknown" }}</div>
+  </div>
+  <div class="description">{{ .description | markdownify }}</div>
+  <div class="buttons">
+    <a href="{{ .repo }}">View repo</a>
+  </div>
+</div>

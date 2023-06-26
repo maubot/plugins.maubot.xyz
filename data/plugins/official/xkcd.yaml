@@ -1,0 +1,8 @@
+name: xkcd
+repo: https://github.com/maubot/xkcd
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot to view xkcd comics.
+public_instances:
+  - "@xkcd:maunium.net"
+  - "@xkcd:t2bot.io"

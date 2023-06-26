@@ -1,0 +1,6 @@
+name: poll
+repo: https://github.com/TomCasavant/PollMaubot
+license: MIT
+author: Tom Casavant
+description: A bot that will create a simple poll for users in a room.
+public_instances: []

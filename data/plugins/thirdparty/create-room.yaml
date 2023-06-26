@@ -1,0 +1,6 @@
+name: create-room
+repo: https://github.com/williamkray/maubot-createroom
+license:
+author: William Kray
+description: A plugin that creates new rooms and automatically sets them to be part of a private Matrix Space.
+public_instances: []

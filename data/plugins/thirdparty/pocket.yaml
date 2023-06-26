@@ -1,0 +1,6 @@
+name: pocket
+repo: https://github.com/jaywink/maubot-pocket
+license: MIT
+author: Jason Robinson
+description: A bot integrating with Pocket to fetch articles and archive them.
+public_instances: []

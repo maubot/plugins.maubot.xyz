@@ -1,0 +1,6 @@
+name: holopin
+repo: https://github.com/itrich/HolopinMaubot
+license: MIT
+author: Eduard Itrich
+description: A plugin to issue [Holopin](https://holopin.io) badges to users.
+public_instances: []

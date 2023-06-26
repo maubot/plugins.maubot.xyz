@@ -1,0 +1,7 @@
+name: satwcomic
+repo: https://github.com/maubot/satwcomic
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot to view SatWComics.
+public_instances:
+  - "@satwcomic:maunium.net"

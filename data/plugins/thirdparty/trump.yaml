@@ -1,0 +1,6 @@
+name: trump
+repo: https://github.com/jeffcasavant/MaubotTrumpTweet
+license: MIT
+author: Jeff Casavant
+description: A bot that generates a Trump tweet with the given content.
+public_instances: []

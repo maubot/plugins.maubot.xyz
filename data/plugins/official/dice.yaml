@@ -1,0 +1,9 @@
+name: dice
+repo: https://github.com/maubot/dice
+license: AGPL-3.0-or-later
+author: Tulir
+description: A combined dice rolling and calculator bot.
+public_instances:
+  - "@dice:maunium.net"
+  - "@dice:t2bot.io"
+

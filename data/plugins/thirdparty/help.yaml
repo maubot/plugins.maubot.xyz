@@ -1,0 +1,6 @@
+name: help
+repo: https://git.skeg1.se/vondassendorf/maubot_mauhelp
+license:
+author: Johan Christoffersson
+description: A plugin to add a `!help` command to maubot. Returns all built-in help commands for all plugins loaded in the client instance.
+public_instances: []

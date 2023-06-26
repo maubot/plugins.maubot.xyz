@@ -1,0 +1,7 @@
+name: rss
+repo: https://github.com/maubot/rss
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot that posts RSS feed updates to Matrix.
+public_instances:
+  - "@rss:maunium.net"

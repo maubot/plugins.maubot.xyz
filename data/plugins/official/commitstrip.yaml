@@ -1,0 +1,8 @@
+name: commitstrip
+repo: https://github.com/maubot/commitstrip
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot to view CommitStrips.
+public_instances:
+  - "@commitstrip:maunium.net"
+  - "@commitstrip:t2bot.io"

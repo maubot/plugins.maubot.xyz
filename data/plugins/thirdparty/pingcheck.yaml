@@ -1,0 +1,8 @@
+name: pingcheck
+repo: https://edugit.org/nik/maubot-pingcheck
+license: MIT
+author: Dominik George
+description: A bot to ping the echo bot and send rtt to Icinga passive check.
+antifeatures:
+  - synchronous
+public_instances: []

@@ -1,0 +1,7 @@
+name: github
+repo: https://github.com/maubot/github
+license: AGPL-3.0-or-later
+author: Tulir
+description: A GitHub client and webhook receiver.
+public_instances:
+  - "@github:maunium.net"

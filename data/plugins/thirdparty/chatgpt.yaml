@@ -1,0 +1,6 @@
+name: chatgpt
+repo: https://github.com/williamkray/maubot-chatgpt
+license: MIT
+author: William Kray
+description: ChatGPT plugin for maubot. Multi-user aware for use in group rooms! Customize your prompts to "train" your assistant contextually.
+public_instances: []

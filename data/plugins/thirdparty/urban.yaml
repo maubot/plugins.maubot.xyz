@@ -1,0 +1,7 @@
+name: urban
+repo: https://github.com/dvdgsng/UrbanMaubot
+license: AGPL-3.0-or-later
+author: dvdgsng
+description: A bot that fetches definitions from [Urban Dictionary](https://www.urbandictionary.com/).
+public_instances:
+  - "@urbandictionary:t2bot.io"

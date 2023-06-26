@@ -1,0 +1,6 @@
+name: invite
+repo: https://github.com/williamkray/maubot-invite
+license:
+author: William Kray
+description: A bot to generate invitation tokens from [matrix-registration](https://github.com/ZerataX/matrix-registration).
+public_instances: []
