@@ -13,7 +13,13 @@
   <link rel="stylesheet" type="text/css" href="/index.css">
 </head>
 <body>
-  <h1>Maubot Plugins</h1>
+  <header>
+    <h1>Maubot Plugins</h1>
+    <p>
+      To add your own plugins, send a pull request to
+      <a href="https://github.com/maubot/plugins.maubot.xyz">github.com/maubot/plugins.maubot.xyz</a>
+    </p>
+  </header>
   <main>
     {{ range index $.Site.Data.plugins.official }}
       {{ partial "plugin.html" . }}

@@ -16,7 +16,7 @@ main {
   grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
 }
 
-body > h1 {
+body > header {
   text-align: center;
 }
 
