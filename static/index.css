@@ -20,6 +20,11 @@ body > header {
   text-align: center;
 }
 
+.search {
+  width: 75%;
+  max-width: 1000px;
+}
+
 .plugin {
   box-sizing: border-box;
   background-color: #FFF;

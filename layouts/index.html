@@ -19,6 +19,7 @@
       To add your own plugins, send a pull request to
       <a href="https://github.com/maubot/plugins.maubot.xyz">github.com/maubot/plugins.maubot.xyz</a>
     </p>
+  <input class="search" type="text" id="searchInput" placeholder="Search..." onkeyup="searchPlugins()">
   </header>
   <main>
     {{ range index $.Site.Data.plugins.official }}
@@ -32,5 +33,26 @@
     <a href="https://github.com/maubot/plugins">Website source</a>
     - Licensed under <a href="https://mau.fi/LICENSE">CC-BY-SA-4.0</a>
   </footer>
+
+  <script>
+  function searchPlugins() {
+    var searchInput = document.getElementById('searchInput');
+    var filter = searchInput.value.toUpperCase();
+    var plugins = document.getElementsByClassName('plugin');
+
+    for (var i = 0; i < plugins.length; i++) {
+      var plugin = plugins[i];
+      var name = plugin.getElementsByTagName('h3')[0].textContent.toUpperCase();
+      var description = plugin.getElementsByClassName('description')[0].textContent.toUpperCase();
+      
+      if (name.includes(filter) || description.includes(filter)) {
+        plugin.style.display = '';
+      } else {
+        plugin.style.display = 'none';
+      }
+    }
+  }
+  </script>
+
 </body>
 </html>
