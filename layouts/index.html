@@ -21,6 +21,7 @@
     </p>
     <input class="search" type="text" id="search-input" placeholder="Search..." onkeyup="searchPlugins()">
   </header>
+
   <main>
     {{ range index $.Site.Data.plugins.official }}
       {{ partial "plugin.html" . }}
@@ -29,10 +30,6 @@
       {{ partial "plugin.html" . }}
     {{ end }}
   </main>
-  <footer>
-    <a href="https://github.com/maubot/plugins">Website source</a>
-    - Licensed under <a href="https://mau.fi/LICENSE">CC-BY-SA-4.0</a>
-  </footer>
 
   <script type="module" src="/index.js"></script>
 </body>
