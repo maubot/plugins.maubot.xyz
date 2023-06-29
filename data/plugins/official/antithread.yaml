@@ -1,0 +1,7 @@
+name: antithread
+repo: https://github.com/maubot/antithread
+license: MIT
+author: Tulir
+description: A bot that redacts all messages in threads.
+public_instances:
+  - "@antithread:maunium.net"
