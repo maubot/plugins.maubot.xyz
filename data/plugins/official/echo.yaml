@@ -1,6 +1,6 @@
 name: echo
 repo: https://github.com/maubot/echo
-license: AGPL-3.0-or-later
+license: MIT
 author: Tulir
 description: |
   A bot that echoes pings and other stuff.

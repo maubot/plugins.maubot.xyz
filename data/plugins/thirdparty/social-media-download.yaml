@@ -1,6 +1,6 @@
 name: social-media-download
 repo: https://github.com/ggogel/SocialMediaDownloadMaubot
-license:
+license: MIT
 author: Gerrit Gogel
 description: A bot that that downloads content from various social media websites given a link.
 antifeatures:
