@@ -1,0 +1,15 @@
+name: NewsAPI
+repo: https://github.com/constantinedev/NewsAPI
+license: MIT
+author: constantinedev
+
+description:
+This code for example how to use the requests modules in mautrix bot
+support the basic command to reply messaqge with the reslut
+I won't custom the reply message just for retuen all the json for test.
+
+This example are showing how to trigger the request by matrix-bot command
+
+antifeatures: []
+
+public_instances: []
