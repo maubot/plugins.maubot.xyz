@@ -1,0 +1,7 @@
+name: webhook
+repo: https://github.com/jkhsjdhjs/maubot-webhook
+license: AGPL-3.0-or-later
+author: jkhsjdhjs
+description: Send messages to rooms via user-defined webhooks.
+antifeatures: []
+public_instances: []
