@@ -3,7 +3,7 @@ name:  local_stt
 # A link to the Git repository.
 repo: https://github.com/ElishaAz/mau_local_stt
 # The SPDX license identifier for the plugin (same as in maubot.yaml)
-license: GPL-3.0-only.
+license: GPL-3.0-only
 # The author of the plugin.
 author: ElishaAz
 # A short description for the plugin. May contain markdown.
