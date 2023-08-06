@@ -1,0 +1,6 @@
+name: animemanga
+repo: https://github.com/coffeebank/coffee-maubot/tree/master/animemanga
+license: AGPL-3.0-or-later
+author: coffeebank
+description: Search anime, manga (manhwa/manhua), and light novels from Anilist. See series info, status, and episodes/chapters.
+public_instances: []

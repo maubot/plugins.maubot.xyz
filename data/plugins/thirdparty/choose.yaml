@@ -1,0 +1,6 @@
+name: choose
+repo: https://github.com/coffeebank/coffee-maubot/tree/master/choose
+license: AGPL-3.0-or-later
+author: coffeebank
+description: Have the bot choose for you ( item1 | item2 | item3 ) with a divider
+public_instances: []
