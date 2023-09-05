@@ -1,0 +1,6 @@
+name: jadict
+repo: https://github.com/coffeebank/coffee-maubot/tree/master/jadict
+license: AGPL-3.0-or-later
+author: coffeebank
+description: A Japanese dictionary Matrix bot for searching and translating Japanese vocabulary (Hiragana, Katakana, Kanji, Romaji). Searches Jisho using Jisho API.
+public_instances: []

@@ -1,0 +1,6 @@
+name: send-custom-html
+repo: https://github.com/coffeebank/coffee-maubot/tree/master/send-custom-html
+license: AGPL-3.0-or-later
+author: coffeebank
+description: Have the bot send a message as custom HTML. Test and preview formatted HTML body in Matrix.
+public_instances: []
