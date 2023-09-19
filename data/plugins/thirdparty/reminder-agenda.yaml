@@ -3,7 +3,7 @@ name: reminder-agenda
 # A link to the Git repository.
 repo: https://github.com/MxMarx/reminder
 # The SPDX license identifier for the plugin (same as in maubot.yaml)
-license: MIT
+license: AGPL-3.0-or-later
 # The author of the plugin.
 author: Ruby Marx
 # A short description for the plugin. May contain markdown.
