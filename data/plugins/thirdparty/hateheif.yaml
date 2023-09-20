@@ -1,0 +1,6 @@
+name: hateheif
+repo: https://github.com/ser/maubot-hateheif/
+license: MIT
+author: Dr Serge Victor
+description: A bot which sends converted HEIF into JPEG. Works in encrypted and unencrypted rooms.
+public_instances: []
