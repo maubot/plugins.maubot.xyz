@@ -1,0 +1,6 @@
+name: bard
+repo: https://github.com/ser/maubot-bard/
+license: MIT
+author: Dr Serge Victor
+description: Allow your maubot instance to return queries from Google(TM) Bard(TM) pseudoAI
+public_instances: []
