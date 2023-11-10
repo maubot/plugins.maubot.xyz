@@ -1,0 +1,23 @@
+name: Hugo
+
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+
+      - name: Ensure Hugo builds
+        run: hugo
+
+      - name: Install pre-commit
+        run: pip install pre-commit
+
+      - name: Lint with pre-commit
+        run: pre-commit run -a
