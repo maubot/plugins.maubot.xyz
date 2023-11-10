@@ -4,7 +4,7 @@ license: MIT
 author: Tulir
 description: |
   A bot that echoes pings and other stuff.
-  
+
   See [#ping:maunium.net](https://matrix.to/#/#ping:maunium.net) for a room
   with lots of echo bots.
 public_instances:
