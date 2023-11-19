@@ -7,4 +7,4 @@ deploy:
   script:
   - apk add --no-cache hugo rsync
   - hugo
-  - rsync -rcthvl --delete public/ /srv/web/plugins.maubot.xyz/
+  - rsync -rcthvl --delete public/ /srv/web/plugins.mau.bot/

@@ -1,4 +1,4 @@
-# plugins.maubot.xyz
+# plugins.mau.bot
 This is a simple website built with [Hugo](https://gohugo.io/) that lists known
 maubot plugins.
 
