@@ -1,0 +1,7 @@
+name: openai-translate
+repo: https://github.com/tcpipuk/maubot-openai-translate
+license: AGPL-3.0-or-later
+author: Tom Foster
+description: Translate messages using OpenAI's GPT API
+antifeatures: []
+public_instances: []
