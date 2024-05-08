@@ -1,0 +1,6 @@
+name: kodict
+repo: https://github.com/coffeebank/coffee-maubot/tree/master/kodict
+license: AGPL-3.0-or-later
+author: coffeebank
+description: A Korean dictionary Matrix bot for searching and translating Korean vocabulary (Hangul/Hangeul, Hanja). Searches National Institute of Korean Language's Korean-English Learners' Dictionary (한국어기초사전).
+public_instances: []
