@@ -2,5 +2,5 @@ name: timein
 repo: https://github.com/coffeebank/coffee-maubot/tree/master/timein
 license: AGPL-3.0-or-later
 author: coffeebank
-description: Get the time in specific cities. Check timezones.  !timein New York  (Python 3.9+) (Python <3.9 requires pytz, fuzzywuzzy)
+description: Get the time in specific cities. Check timezones.  !timein America/New_York  (Python 3.9+)
 public_instances: []
