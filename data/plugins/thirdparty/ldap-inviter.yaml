@@ -1,0 +1,6 @@
+name: LDAP Inviter Bot
+repo: https://github.com/davidmehren/maubot-ldap-inviter
+license: MIT
+author: David Mehren
+description: A maubot plugin to invite users to Matrix rooms according to LDAP groups
+public_instances: []
