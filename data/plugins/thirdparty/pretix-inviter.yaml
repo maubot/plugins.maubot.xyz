@@ -1,0 +1,6 @@
+name: Pretix Inviter Bot
+repo: https://github.com/fedora-infra/maubot-pretix-invite
+license: MIT
+author: Adrian Edwards and Fedora Contributors
+description: A maubot plugin for inviting event participants from the pretix ticketing platform into a matrix room 
+public_instances: []
