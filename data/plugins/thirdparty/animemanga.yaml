@@ -2,5 +2,5 @@ name: animemanga
 repo: https://github.com/coffeebank/coffee-maubot/tree/master/animemanga
 license: AGPL-3.0-or-later
 author: coffeebank
-description: An anime/manga bot for Matrix. Search anime, manga (manhwa/manhua), and light novels from Anilist. See series info, status, and episodes/chapters.
+description: An anime/manga bot for Matrix. Search anime, manga (manhwa/manhua), and light novels. See series info, status, episodes/chapters, and tags. Search Anilist, MangaDex, and Batoto.
 public_instances: []
