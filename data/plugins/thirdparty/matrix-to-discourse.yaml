@@ -1,0 +1,7 @@
+name: Matrix To Discourse
+repo: https://github.com/gitayam/matrix-to-discourse
+license: GPL 3.0
+author: gitayam
+description: A plugin create Discourse forum post from messages in Matrix or Bridged rooms and perform advanced forum searches directly from Matrix or Bridged rooms. Perfect for community building and engagement.
+antifeatures: []
+public_instances: []
