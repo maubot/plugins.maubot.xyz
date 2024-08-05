@@ -1,0 +1,6 @@
+name:maubot-stt
+repo:https://github.com/code-gal/maubot-reactbot
+license:MIT License
+author:coder-gal
+description:Transcriptions of audio messages to text in Matrix clients using OpenAI's Whisper API
+public_instances: []
