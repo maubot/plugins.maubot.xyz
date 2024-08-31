@@ -1,6 +1,0 @@
-name: welcome
-repo: https://github.com/williamkray/maubot-welcome
-license: MIT
-author: William Kray
-description: A plugin that greets new people with a configurable message when they join a room.
-public_instances: []
