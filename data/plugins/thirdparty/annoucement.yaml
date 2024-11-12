@@ -1,0 +1,7 @@
+name: maubot-announcement
+repo: https://github.com/toshanmugaraj/maubot-announcement.git
+license:  MIT
+author: shunmugaraj subramanian
+description: This bot is used to send anonymous messages to users similar to server notices but with more custom option
+antifeatures: []
+public_instances: []
