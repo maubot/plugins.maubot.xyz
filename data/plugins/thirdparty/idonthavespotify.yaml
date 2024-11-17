@@ -1,0 +1,7 @@
+name: idonthavespotify
+repo: https://github.com/HarHarLinks/maubot-idonthavespotify
+license: MIT
+author: HarHarLinks
+description: Reply to Spotify links with alternative streaming services.
+antifeatures: []
+public_instances: []
