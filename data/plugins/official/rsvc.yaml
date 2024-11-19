@@ -1,0 +1,7 @@
+name: rsvc
+repo: https://github.com/maubot/rsvc
+license: AGPL-3.0-or-later
+author: Tulir
+description: A bot to check the version of servers in room.
+public_instances:
+  - "@version:maunium.net"
