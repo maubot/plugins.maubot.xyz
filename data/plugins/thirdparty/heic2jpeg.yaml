@@ -1,0 +1,8 @@
+name: heic2jpeg
+repo: https://git.serialexperiments.club/lain/maubot-heic2jpeg
+license: MIT
+author: Lain Iwakura <lain@serialexperiments.club>
+description: A bot that convert HEIC/HEIF images into JPEG
+antifeatures: []
+public_instances:
+  - "@cheshire:serialexperiments.club"
