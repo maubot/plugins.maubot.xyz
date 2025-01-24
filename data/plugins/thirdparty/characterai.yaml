@@ -1,7 +1,0 @@
-name: characterai
-repo: https://github.com/Matthieu-LAURENT39/maubot-characterai
-license: MIT
-author: Matthieu LAURENT
-description: Chat with characters from [character.ai](https://character.ai/) in your Matrix rooms! Very customizable.
-antifeatures: []
-public_instances: []
