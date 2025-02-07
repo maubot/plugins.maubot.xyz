@@ -1,0 +1,7 @@
+name: youtube
+repo: https://laboon.dev/brad/maubot-youtube
+license: AGPL-3.0-only
+author: L. Bradley LaBoon
+description: A bot for displaying YouTube video information.
+antifeatures: []
+public_instances: []
