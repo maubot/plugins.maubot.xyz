@@ -1,0 +1,7 @@
+name: twitch
+repo: https://laboon.dev/brad/twitchbot
+license: AGPL-3.0-only
+author: L. Bradley LaBoon
+description: A bot for getting real-time Twitch live stream notifications (similar to the streamcord bot for Discord).
+antifeatures: []
+public_instances: []
