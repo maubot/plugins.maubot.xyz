@@ -1,0 +1,7 @@
+name: toonbot
+repo: https://github.com/snex/toonbot
+license: MIT
+author: Dave Havlicek (snex)
+description: Bot that provides frames from Frinkiac, Morbotron and Master of Science
+antifeatures: []
+public_instances: []

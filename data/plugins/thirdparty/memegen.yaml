@@ -1,0 +1,7 @@
+name: memegen
+repo: https://github.com/snex/memegen
+license: MIT
+author: Dave Havlicek (snex)
+description: Bot that lets users auto-generate memes through memegen.link
+antifeatures: []
+public_instances: []
