@@ -1,0 +1,16 @@
+# The name of the plugin.
+name: gladia_transcribebot
+# A link to the Git repository.
+repo: https://github.com/conan747/gladia_transcribebot.git
+# The SPDX license identifier for the plugin (same as in maubot.yaml)
+license: MIT
+# The author of the plugin.
+author: conan747
+# A short description for the plugin. May contain markdown.
+description: A maubot to automatically transcribe voice messages using the free gladia api.
+# Antifeature identifiers. Currently the only defined value is `synchronous`,
+# which must be included if the plugin uses non-async libraries in the main
+# thread (because that can block the whole maubot process).
+antifeatures: []
+# List of public bot user IDs where the plugin is running.
+public_instances: []
