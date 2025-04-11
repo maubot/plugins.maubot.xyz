@@ -3,7 +3,7 @@ name: gladia_transcribebot
 # A link to the Git repository.
 repo: https://github.com/conan747/gladia_transcribebot.git
 # The SPDX license identifier for the plugin (same as in maubot.yaml)
-license: AGPL-3.0-or-later
+license: MIT
 # The author of the plugin.
 author: conan747
 # A short description for the plugin. May contain markdown.
