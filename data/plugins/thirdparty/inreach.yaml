@@ -1,0 +1,5 @@
+name: inreach
+repo: https://github.com/palchrb/maubot_inreach
+license: GPL-3.0
+author: palchrb
+description: Bridges Garmin inreach satellite messages into your matrix rooms
