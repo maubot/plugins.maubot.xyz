@@ -1,0 +1,6 @@
+name:maubot-webdownload
+repo:https://github.com/code-gal/maubot-webdownload
+license:GNU LESSER GENERAL PUBLIC LICENSE Version 3
+author:coder-gal
+description:fork from matrix-url-download add some features.A plugin for the maubot bot framework implementing URL downloads in matrix rooms.
+public_instances: []
