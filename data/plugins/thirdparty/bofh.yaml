@@ -1,0 +1,7 @@
+name: bofh
+repo: https://github.com/shriramters/maubot-bofh
+license: LGPL-3.0
+author: Shriram Ravindranathan
+description: Post a random line from the classic "Bastard Operator From Hell" excuses file.
+antifeatures: []
+public_instances: []
