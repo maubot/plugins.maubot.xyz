@@ -1,0 +1,7 @@
+name: etym
+repo: https://github.com/shriramters/maubot-etym
+license: LGPL-2.1
+author: Shriram Ravindranathan
+description: Maubot plugin for fetching etymological information of a word.
+antifeatures: []
+public_instances: []
