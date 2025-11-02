@@ -1,0 +1,8 @@
+name: ThreadOnly
+repo: https://git.serialexperiments.club/lain/maubot-threadonly
+license: Custom
+author: Lain Iwakura <lain@serialexperiments.club>
+description: A bot that redacts text messages that isn't in a thread
+antifeatures: []
+public_instances:
+  - "@touko:serialexperiments.club"
