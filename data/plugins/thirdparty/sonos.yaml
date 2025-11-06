@@ -1,0 +1,5 @@
+name: sonos
+repo: https://github.com/palchrb/maubot_sonos
+license: GPL-3.0
+author: palchrb
+description: plugin to allow a bot control your Sonos sound system
