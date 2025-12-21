@@ -1,0 +1,18 @@
+# The name of the plugin.
+
+name: matrix-spam-guardian
+repo: https://github.com/Musfira89/matrix-spam-guardian
+
+license: MIT
+author: Musfira Ansari
+description:
+A simple Matrix anti-spam and auto-moderation bot powered by Maubot.
+  - Detects rapid message spam automatically
+  - Warns users before taking action
+  - Escalates punishment mute → ban
+  - Uses power-level muting with safe fallback
+  - Automatically unmutes users after timeout
+
+antifeatures: []
+# List of public bot user IDs where the plugin is running.
+public_instances: []
