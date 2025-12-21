@@ -1,0 +1,7 @@
+name: Songlink
+repo: https://github.com/tstrijdhorst/maubot-songlink-plugin
+license: MIT
+author: Tim Strijdhorst
+description: Passively scans your chats for links to songs and replies the corresponding song.link links so that users can choose their own platform.
+antifeatures: []
+public_instances: []
