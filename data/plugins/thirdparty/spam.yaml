@@ -5,8 +5,8 @@ repo: https://github.com/Musfira89/matrix-spam-guardian
 
 license: MIT
 author: Musfira Ansari
-description:
-A simple Matrix anti-spam and auto-moderation bot powered by Maubot.
+description: |
+  A simple Matrix anti-spam and auto-moderation bot powered by Maubot.
   - Detects rapid message spam automatically
   - Warns users before taking action
   - Escalates punishment mute → ban
