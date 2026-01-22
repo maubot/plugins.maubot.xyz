@@ -1,0 +1,6 @@
+name: goelunch
+repo: https://github.com/cevenkadir/maubot-goelunch
+license: MIT
+author: Kadir Çeven
+description: A maubot plugin for Matrix/Element that fetches and prints Studentenwerk Göttingen canteen lunch menus for a given day and canteen. 
+public_instances: []
