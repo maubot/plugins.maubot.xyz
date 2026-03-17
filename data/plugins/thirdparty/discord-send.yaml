@@ -1,7 +1,7 @@
 # The name of the plugin.
 name: discord-send
 # A link to the Git repository.
-repo: https://gitlab.com/yamai/discord-send
+repo: https://gitlab.com/yamai/maubot.discord-send
 # The SPDX license identifier for the plugin (same as in maubot.yaml)
 license: MIT
 # The author of the plugin.
