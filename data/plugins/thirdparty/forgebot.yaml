@@ -1,0 +1,7 @@
+name: Forgejo
+repo: https://codeberg.org/palchrb/maubot_forgejo
+license: AGPL-3.0-or-later
+author: jkhsjdhjs
+description: A Forgejo client and webhook creator/receiver - heavily inspired by existing github/lab plugins
+antifeatures: []
+public_instances: []
