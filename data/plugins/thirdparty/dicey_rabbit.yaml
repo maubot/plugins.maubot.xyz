@@ -1,6 +1,6 @@
 name: dicey_rabbit
 repo: https://codeberg.org/Bellimora/dicey_rabbit
-license: GPL-3.0-or-later
+license: GPL-3.0-only
 author: Bellimora
 description: A TTRPG focused dice plugin with handling for a number of systems.
 public_instances: []
