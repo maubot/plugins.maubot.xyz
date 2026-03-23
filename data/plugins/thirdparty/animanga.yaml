@@ -1,0 +1,7 @@
+name: animanga
+repo: https://github.com/pkorba/animanga
+license: MIT
+author: pkorba
+description: A bot that allows you to search for anime and manga in AniList database
+antifeatures: []
+public_instances: []
