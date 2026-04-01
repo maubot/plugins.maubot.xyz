@@ -1,0 +1,7 @@
+name: Codeberg
+repo: https://github.com/ser/maubot-codeberg
+license: AGPL-3.0-or-later
+author: Dr Serge Victor
+description: A webhook receiver working with Codeberg or other Forgejo repositories as an OAuth2 App
+antifeatures: []
+public_instances: []
