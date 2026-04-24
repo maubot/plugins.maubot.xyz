@@ -1,5 +1,4 @@
-
-name: maubot-jura
+name: maubot-jira
 # A link to the Git repository.
 repo: https://github.com/JadedBlueEyes/maubot-jira
 # The SPDX license identifier for the plugin (same as in maubot.yaml)
