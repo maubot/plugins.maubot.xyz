@@ -1,0 +1,7 @@
+name: Test Matrix Bot
+repo: https://github.com/victorewik/Test-Matrix
+license: MIT
+author: victorewik
+description: Advanced point-to-point diagnostic bot for Matrix homeservers. Tracks latency, IP resolution, and geographic location for both sender and receiver.
+antifeatures: []
+public_instances: []
