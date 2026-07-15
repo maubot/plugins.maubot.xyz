@@ -1,6 +1,6 @@
 name: summarybot
 repo: https://github.com/n1tr0-5urf3r/matrix-maubot-summarybot
 license: MIT
-author: n1tr0-5urf3r
+author: Fabian Ihle
 description: Summarizes recent messages in a Matrix room using an LLM via the `!summary` command. Works with any OpenAI-compatible chat-completions endpoint.
 public_instances: []
