@@ -1,0 +1,17 @@
+# The name of the plugin.
+
+name: Ticket Bot
+repo: https://github.com/Musfira89/Ticket-Bot-System
+
+license: MIT
+author: Musfira Ansari
+description:
+ A simple Matrix support ticketing system powered by Maubot.
+  - Users can open tickets by category (general, purchase, other).
+  - Each ticket creates a private room with the user and admin.
+  - Tickets auto-close and delete after 14 days.
+  - Unauthorized/banned bots are kicked automatically.
+
+antifeatures: []
+# List of public bot user IDs where the plugin is running.
+public_instances: []

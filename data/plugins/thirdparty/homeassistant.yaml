@@ -1,0 +1,6 @@
+name: homeassistant
+repo: https://gitlab.com/avedor-projects/matrix/maubot-home-assistant
+license: MIT
+author: Avery Dorgan
+description: A Maubot plugin for interacting with Home Assistant's Conversation API
+public_instances: []

@@ -1,0 +1,6 @@
+name: saved
+repo: https://github.com/alsvartr/maubot-plugins/tree/main/saved
+license: MIT
+author: alsvartr
+description: Save notes to Nextcloud Notes and use this bot as a "Saved Messages" chat, like in Telegram
+public_instances: []

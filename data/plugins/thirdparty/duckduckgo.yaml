@@ -1,0 +1,6 @@
+name: duckduckgo
+repo: https://gitlab.com/avedor-projects/matrix/maubot-ddg
+license: MIT
+author: Avery Dorgan
+description: A Maubot plugin for querying DuckDuckGo's API and returning search results
+public_instances: []

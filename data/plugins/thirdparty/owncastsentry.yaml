@@ -1,0 +1,8 @@
+name: OwncastSentry
+repo: https://git.logal.dev/LogalDeveloper/OwncastSentry
+license: Apache-2.0
+author: LogalDeveloper
+description: Monitor Owncast streams and send notifications when they go live.
+antifeatures: []
+public_instances:
+  - "@owncastsentry:logal.dev"

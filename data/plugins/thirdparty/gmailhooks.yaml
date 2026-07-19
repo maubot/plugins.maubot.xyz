@@ -1,0 +1,6 @@
+name: gmailhooks
+repo: https://github.com/palchrb/maubot_gmailhooks
+license: GPL-3.0
+author: palchrb
+description: A bot that enables you to subscribe to webhooks from a specific + gmail address from any matrix room.
+public_instances: []

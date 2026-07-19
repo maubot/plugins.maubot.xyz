@@ -1,0 +1,7 @@
+name: anime_trace
+repo: https://github.com/pkorba/anime_trace
+license: MIT
+author: pkorba
+description: A bot that allows you to trace back the scene from an anime screenshot using trace.moe API
+antifeatures: []
+public_instances: []

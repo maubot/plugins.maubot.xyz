@@ -1,0 +1,5 @@
+name: roomhook
+repo: https://github.com/palchrb/maubot_roomhook
+license: GPL-3.0
+author: palchrb
+description: Lets the users on your homeserver configure their own webhooks with auth per room through dialouge with the bot

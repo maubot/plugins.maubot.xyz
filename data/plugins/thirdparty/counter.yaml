@@ -1,0 +1,6 @@
+name: counter
+repo: https://git.benstokman.me/benjistokman/maubot-counter
+license: CC-BY-SA 4.0
+author: Ben Stokman
+description: A simple counter maubot
+public_instances: []

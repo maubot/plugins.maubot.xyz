@@ -1,0 +1,6 @@
+name: bgmtv
+repo: https://github.com/limitcool/bgmtv-maubot
+license: MIT
+author: limitcool
+description: A Bangumi (bgm.tv) plugin for maubot. Search and get information about anime, manga, games, and other ACG content from Bangumi. / Bangumi (bgm.tv) 的 maubot 插件，可以搜索和获取动画、漫画、游戏等 ACG 内容信息。
+public_instances: []
