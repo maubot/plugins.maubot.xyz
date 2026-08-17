@@ -1,0 +1,6 @@
+name: livetennis
+repo: https://github.com/livetennisapi/maubot-livetennis
+license: MIT
+author: Live Tennis API
+description: Live tennis scores, fixtures and player rankings from the Live Tennis API. `!tennis live` / `!tennis today` / `!tennis player <name>` (free API key required)
+public_instances: []
