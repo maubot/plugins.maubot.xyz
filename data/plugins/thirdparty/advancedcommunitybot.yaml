@@ -1,0 +1,7 @@
+name: Advanced Community Bot
+repo: https://git.ztfr.eu/Dome/Advanced-Community-Bot
+license: MIT
+author: Dome
+description: Advanced Community Bot is a Maubot Bot Plugin to manage Matrix servers.
+antifeatures: []
+public_instances: []
