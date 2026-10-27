@@ -1,0 +1,7 @@
+name: Book Worm Bot
+repo: https://git.ztfr.eu/Dome/Book-Worm-Bot
+license: MIT
+author: Dome
+description: AI-assisted book recommendations and summaries for Matrix, verified against Open Library.
+antifeatures: []
+public_instances: []
