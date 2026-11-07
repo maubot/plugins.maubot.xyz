@@ -1,0 +1,7 @@
+name: Plex Zapros
+repo: https://github.com/MorfeiSYS/NEXT-Plex-Bot
+license: MIT
+author: Morfei
+description: Matrix bot that searches Plex Media Server via `!zapros`, queues missing titles, notifies operators, and polls until content appears.
+antifeatures: []
+public_instances: []
