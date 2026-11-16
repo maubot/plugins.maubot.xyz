@@ -1,0 +1,7 @@
+name: MessageForwarder
+repo: https://codeberg.org/hacklabjkl/messageforwarder
+license: AGPL-3.0-or-later
+author: Dr. Jaska
+description: A bot to forward messages to Matrix from daemons via a local UNIX socket.
+antifeatures: []
+public_instances: []
